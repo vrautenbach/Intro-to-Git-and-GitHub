@@ -8,6 +8,7 @@
 If you don't understand the basic concepts yet, I would highly recommend that you have a look at the [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk). It is about an hour, but will cover all of this in detail.
 
 Other great resources to consider:
+* [Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 * [Getting started with Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [Using Git](https://docs.github.com/en/get-started/using-git/about-git)
 * [W3C Git Tutorial](https://www.w3schools.com/git/git_tutorial.asp)
 * [GitKraken Git Tutorial](https://www.gitkraken.com/learn/git/tutorials)
