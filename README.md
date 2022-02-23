@@ -49,13 +49,6 @@ Take a screenshot of your command line showing how you cloned this repository on
 
 ## Task 3: Branching
 
-For task 2, you will have to do the following:
-- [ ] Create a new branch called ***edit-module-assignment*** on GitHub
-- [ ] On the edit-module-assignment branch, create a new readme called new-branch.md and click the edit button.
-- [ ] In the editor for new-branch.md add your name at the top of the document. Style it using [Markdown](https://www.markdownguide.org/basic-syntax/).
-- [ ] Scroll down and commit these changes.
-- [ ] On your local repository (on your computer) of the this repository, called  Intro-to-Git-and-GitHub, which we cloned in the last assignment, fetch and merge this change into your master branch in the terminal.
-
 For task 3, you will have to do the following:
 - [ ] Create a new branch called ```assignment-edit``` on the terminal of your local repository on your computer.
 - [ ] Create a new file called ```new-branch.md``` in the ```assignment-edit``` branch, and add your name at the top of the document. Style it using [Markdown](https://www.markdownguide.org/basic-syntax/).
