@@ -10,6 +10,7 @@ If you don't understand the basic concepts yet, I would highly recommend that yo
 Other great resources to consider:
 * [Getting started with Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [Using Git](https://docs.github.com/en/get-started/using-git/about-git)
 * [W3C Git Tutorial](https://www.w3schools.com/git/git_tutorial.asp)
+* [GitKraken Git Tutorial](https://www.gitkraken.com/learn/git/tutorials)
 * [GitHub YouTube playlist with training resources](https://www.youtube.com/playlist?list=PLIRjfNq867be7VngMuXsjTvzBM26nBINg)
 * [GitHub learning platform](https://lab.github.com)
 <br><br>
